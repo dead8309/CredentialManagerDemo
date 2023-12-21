@@ -4,4 +4,5 @@ This is a simple demo project showcasing how to use Google's Credential Manager 
 
 ## Official Documentation
 [Credential Manager](https://developer.android.com/training/sign-in/passkeys)
-[Integrating Google Sign-In into Your Android App](https://developer.android.com/training/sign-in/credential-manager)
+
+[Integrate Google Sign-In](https://developer.android.com/training/sign-in/credential-manager)
